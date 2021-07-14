@@ -1,4 +1,4 @@
-export default class STAR {
+window.STAR = class STAR {
   constructor() {
     this.__head,
       this.__styles,
