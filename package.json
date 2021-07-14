@@ -1,0 +1,24 @@
+{
+  "name": "star-bg2",
+  "version": "1.1.0",
+  "description": "A Simple Background Animation Library",
+  "main": "starbg.js",
+  "scripts": {
+    "test": "echo 'No test commands'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sihilelh/star-bg.git"
+  },
+  "keywords": [
+    "background",
+    "css",
+    "animation"
+  ],
+  "author": "Sihilel Himasara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sihilelh/star-bg/issues"
+  },
+  "homepage": "https://github.com/sihilelh/star-bg#readme"
+}
