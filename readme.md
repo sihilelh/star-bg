@@ -3,7 +3,7 @@
 ## Implement Star BG with JavaScript
 
 ```
-<script src="https://unpkg.com/star-bg@1.1.0/starbg.min.js" defer>
+   <script src="https://unpkg.com/star-bg@1.1.0/starbg.min.js" defer></script>
 <script>
     var stars = new STAR();
     stars.init();
@@ -13,7 +13,7 @@
 ### Options
 
 ```
-<script src="https://unpkg.com/star-bg@1.1.0/starbg.min.js" defer>
+   <script src="https://unpkg.com/star-bg@1.1.0/starbg.min.js" defer></script>
 <script>
     var stars = new STAR();
     stars.init({
@@ -25,7 +25,7 @@
 
 ### Destroy Stars
 ```
-<script src="https://unpkg.com/star-bg@1.1.0/starbg.min.js" defer>
+   <script src="https://unpkg.com/star-bg@1.1.0/starbg.min.js" defer></script>
 <script>
     var stars = new STAR();
     stars.init({
